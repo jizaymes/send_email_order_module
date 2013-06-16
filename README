@@ -11,6 +11,7 @@ Features:
 Installation:
 - Drop this file into your $ubersmithroot/include/order_modules folder
 - Refresh ubersmith order manager screen in your browser
+- Add a step to your order process, choose 'Send Email', then configure your options under the Config tab
 - Send emails!
 
 Comments or questions? James Cornman <jizaymes@gmail.com>
