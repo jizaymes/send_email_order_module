@@ -1,0 +1,16 @@
+This is an Order Module for Ubersmith DE that will allow a generic email to be sent.
+
+Features:
+
+- Comma/Space delimited To: recipients
+- Pattern replacement for similar variables (##company##, ##order_id##, ##email##, etc..) on To, Subject and Body fields
+- Capability to send HTML emails
+- Specify Email To, From, Subject, Body, and Reply-To address
+- Uses built in PHP mail() routines
+
+Installation:
+- Drop this file into your $ubersmithroot/include/order_modules folder
+- Refresh ubersmith order manager screen in your browser
+- Send emails!
+
+Comments or questions? James Cornman <jizaymes@gmail.com>
